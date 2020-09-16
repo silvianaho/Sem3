@@ -1,0 +1,327 @@
+orderId,orderNumber,orderDate,requiredDate,shippedDate,status,comments
+1,10100,6/1/2003,13/1/2003,10/1/2003,Shipped,
+2,10101,9/1/2003,18/1/2003,11/1/2003,Shipped,Check on availability.
+3,10102,10/1/2003,18/1/2003,14/1/2003,Shipped,
+4,10103,29/1/2003,7/2/2003,2/2/2003,Shipped,
+5,10104,31/1/2003,9/2/2003,1/2/2003,Shipped,
+6,10105,11/2/2003,21/2/2003,12/2/2003,Shipped,
+7,10106,17/2/2003,24/2/2003,21/2/2003,Shipped,
+8,10107,24/2/2003,3/3/2003,26/2/2003,Shipped,Difficult to negotiate with customer. We need more marketing materials
+9,10108,3/3/2003,12/3/2003,8/3/2003,Shipped,
+10,10109,10/3/2003,19/3/2003,11/3/2003,Shipped,Customer requested that FedEx Ground is used for this shipping
+11,10110,18/3/2003,24/3/2003,20/3/2003,Shipped,
+12,10111,25/3/2003,31/3/2003,30/3/2003,Shipped,
+13,10112,24/3/2003,3/4/2003,29/3/2003,Shipped,"Customer requested that ad materials (such as posters, pamphlets) be included in the shippment"
+14,10113,26/3/2003,2/4/2003,27/3/2003,Shipped,
+15,10114,1/4/2003,7/4/2003,2/4/2003,Shipped,
+16,10115,4/4/2003,12/4/2003,7/4/2003,Shipped,
+17,10116,11/4/2003,19/4/2003,13/4/2003,Shipped,
+18,10117,16/4/2003,24/4/2003,17/4/2003,Shipped,
+19,10118,21/4/2003,29/4/2003,26/4/2003,Shipped,Customer has worked with some of our vendors in the past and is aware of their MSRP
+20,10119,28/4/2003,5/5/2003,2/5/2003,Shipped,
+21,10120,29/4/2003,8/5/2003,1/5/2003,Shipped,
+22,10121,7/5/2003,13/5/2003,13/5/2003,Shipped,
+23,10122,8/5/2003,16/5/2003,13/5/2003,Shipped,
+24,10123,20/5/2003,29/5/2003,22/5/2003,Shipped,
+25,10124,21/5/2003,29/5/2003,25/5/2003,Shipped,Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch
+26,10125,21/5/2003,27/5/2003,24/5/2003,Shipped,
+27,10126,28/5/2003,7/6/2003,2/6/2003,Shipped,
+28,10127,3/6/2003,9/6/2003,6/6/2003,Shipped,Customer requested special shippment. The instructions were passed along to the warehouse
+29,10128,6/6/2003,12/6/2003,11/6/2003,Shipped,
+30,10129,12/6/2003,18/6/2003,14/6/2003,Shipped,
+31,10130,16/6/2003,24/6/2003,21/6/2003,Shipped,
+32,10131,16/6/2003,25/6/2003,21/6/2003,Shipped,
+33,10132,25/6/2003,1/7/2003,28/6/2003,Shipped,
+34,10133,27/6/2003,4/7/2003,3/7/2003,Shipped,
+35,10134,1/7/2003,10/7/2003,5/7/2003,Shipped,
+36,10135,2/7/2003,12/7/2003,3/7/2003,Shipped,
+37,10136,4/7/2003,14/7/2003,6/7/2003,Shipped,Customer is interested in buying more Ferrari models
+38,10137,10/7/2003,20/7/2003,14/7/2003,Shipped,
+39,10138,7/7/2003,16/7/2003,13/7/2003,Shipped,
+40,10139,16/7/2003,23/7/2003,21/7/2003,Shipped,
+41,10140,24/7/2003,2/8/2003,30/7/2003,Shipped,
+42,10141,1/8/2003,9/8/2003,4/8/2003,Shipped,
+43,10142,8/8/2003,16/8/2003,13/8/2003,Shipped,
+44,10143,10/8/2003,18/8/2003,12/8/2003,Shipped,Can we deliver the new Ford Mustang models by end-of-quarter?
+45,10144,13/8/2003,21/8/2003,14/8/2003,Shipped,
+46,10145,25/8/2003,2/9/2003,31/8/2003,Shipped,
+47,10146,3/9/2003,13/9/2003,6/9/2003,Shipped,
+48,10147,5/9/2003,12/9/2003,9/9/2003,Shipped,
+49,10148,11/9/2003,21/9/2003,15/9/2003,Shipped,They want to reevaluate their terms agreement with Finance.
+50,10149,12/9/2003,18/9/2003,17/9/2003,Shipped,
+51,10150,19/9/2003,27/9/2003,21/9/2003,Shipped,They want to reevaluate their terms agreement with Finance.
+52,10151,21/9/2003,30/9/2003,24/9/2003,Shipped,
+53,10152,25/9/2003,3/10/2003,1/10/2003,Shipped,
+54,10153,28/9/2003,5/10/2003,3/10/2003,Shipped,
+55,10154,2/10/2003,12/10/2003,8/10/2003,Shipped,
+56,10155,6/10/2003,13/10/2003,7/10/2003,Shipped,
+57,10156,8/10/2003,17/10/2003,11/10/2003,Shipped,
+58,10157,9/10/2003,15/10/2003,14/10/2003,Shipped,
+59,10158,10/10/2003,18/10/2003,15/10/2003,Shipped,
+60,10159,10/10/2003,19/10/2003,16/10/2003,Shipped,
+61,10160,11/10/2003,17/10/2003,17/10/2003,Shipped,
+62,10161,17/10/2003,25/10/2003,20/10/2003,Shipped,
+63,10162,18/10/2003,26/10/2003,19/10/2003,Shipped,
+64,10163,20/10/2003,27/10/2003,24/10/2003,Shipped,
+65,10164,21/10/2003,30/10/2003,23/10/2003,Resolved,"This order was disputed, but resolved on 11/1/2003; Customer doesn't like the colors and precision of the models."
+66,10165,22/10/2003,31/10/2003,26/12/2003,Shipped,This order was on hold because customers's credit limit had been exceeded. Order will ship when payment is received
+67,10166,21/10/2003,30/10/2003,27/10/2003,Shipped,
+68,10167,23/10/2003,30/10/2003,,Cancelled,Customer called to cancel. The warehouse was notified in time and the order didn't ship. They have a new VP of Sales and are shifting their sales model. Our VP of Sales should contact them.
+69,10168,28/10/2003,3/11/2003,1/11/2003,Shipped,
+70,10169,4/11/2003,14/11/2003,9/11/2003,Shipped,
+71,10170,4/11/2003,12/11/2003,7/11/2003,Shipped,
+72,10171,5/11/2003,13/11/2003,7/11/2003,Shipped,
+73,10172,5/11/2003,14/11/2003,11/11/2003,Shipped,
+74,10173,5/11/2003,15/11/2003,9/11/2003,Shipped,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+75,10174,6/11/2003,15/11/2003,10/11/2003,Shipped,
+76,10175,6/11/2003,14/11/2003,9/11/2003,Shipped,
+77,10176,6/11/2003,15/11/2003,12/11/2003,Shipped,
+78,10177,7/11/2003,17/11/2003,12/11/2003,Shipped,
+79,10178,8/11/2003,16/11/2003,10/11/2003,Shipped,Custom shipping instructions sent to warehouse
+80,10179,11/11/2003,17/11/2003,13/11/2003,Cancelled,Customer cancelled due to urgent budgeting issues. Must be cautious when dealing with them in the future. Since order shipped already we must discuss who would cover the shipping charges.
+81,10180,11/11/2003,19/11/2003,14/11/2003,Shipped,
+82,10181,12/11/2003,19/11/2003,15/11/2003,Shipped,
+83,10182,12/11/2003,21/11/2003,18/11/2003,Shipped,
+84,10183,13/11/2003,22/11/2003,15/11/2003,Shipped,We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases.
+85,10184,14/11/2003,22/11/2003,20/11/2003,Shipped,
+86,10185,14/11/2003,21/11/2003,20/11/2003,Shipped,
+87,10186,14/11/2003,20/11/2003,18/11/2003,Shipped,They want to reevaluate their terms agreement with the VP of Sales
+88,10187,15/11/2003,24/11/2003,16/11/2003,Shipped,
+89,10188,18/11/2003,26/11/2003,24/11/2003,Shipped,
+90,10189,18/11/2003,25/11/2003,24/11/2003,Shipped,They want to reevaluate their terms agreement with Finance.
+91,10190,19/11/2003,29/11/2003,20/11/2003,Shipped,
+92,10191,20/11/2003,30/11/2003,24/11/2003,Shipped,We must be cautions with this customer. Their VP of Sales resigned. Company may be heading down.
+93,10192,20/11/2003,29/11/2003,25/11/2003,Shipped,
+94,10193,21/11/2003,28/11/2003,27/11/2003,Shipped,
+95,10194,25/11/2003,2/12/2003,26/11/2003,Shipped,
+96,10195,25/11/2003,1/12/2003,28/11/2003,Shipped,
+97,10196,26/11/2003,3/12/2003,1/12/2003,Shipped,
+98,10197,26/11/2003,2/12/2003,1/12/2003,Shipped,Customer inquired about remote controlled models and gold models.
+99,10198,27/11/2003,6/12/2003,3/12/2003,Shipped,
+100,10199,1/12/2003,10/12/2003,6/12/2003,Shipped,
+101,10200,1/12/2003,9/12/2003,6/12/2003,Shipped,
+102,10201,1/12/2003,11/12/2003,2/12/2003,Shipped,
+103,10202,2/12/2003,9/12/2003,6/12/2003,Shipped,
+104,10203,2/12/2003,11/12/2003,7/12/2003,Shipped,
+105,10204,2/12/2003,10/12/2003,4/12/2003,Shipped,
+106,10205,3/12/2003,9/12/2003,7/12/2003,Shipped, I need all the information I can get on our competitors.
+107,10206,5/12/2003,13/12/2003,8/12/2003,Shipped,Can we renegotiate this one?
+108,10207,9/12/2003,17/12/2003,11/12/2003,Shipped,Check on availability.
+109,10208,2/1/2004,11/1/2004,4/1/2004,Shipped,
+110,10209,9/1/2004,15/1/2004,12/1/2004,Shipped,
+111,10210,12/1/2004,22/1/2004,20/1/2004,Shipped,
+112,10211,15/1/2004,25/1/2004,18/1/2004,Shipped,
+113,10212,16/1/2004,24/1/2004,18/1/2004,Shipped,
+114,10213,22/1/2004,28/1/2004,27/1/2004,Shipped,Difficult to negotiate with customer. We need more marketing materials
+115,10214,26/1/2004,4/2/2004,29/1/2004,Shipped,
+116,10215,29/1/2004,8/2/2004,1/2/2004,Shipped,Customer requested that FedEx Ground is used for this shipping
+117,10216,2/2/2004,10/2/2004,4/2/2004,Shipped,
+118,10217,4/2/2004,14/2/2004,6/2/2004,Shipped,
+119,10218,9/2/2004,16/2/2004,11/2/2004,Shipped,"Customer requested that ad materials (such as posters, pamphlets) be included in the shippment"
+120,10219,10/2/2004,17/2/2004,12/2/2004,Shipped,
+121,10220,12/2/2004,19/2/2004,16/2/2004,Shipped,
+122,10221,18/2/2004,26/2/2004,19/2/2004,Shipped,
+123,10222,19/2/2004,27/2/2004,20/2/2004,Shipped,
+124,10223,20/2/2004,29/2/2004,24/2/2004,Shipped,
+125,10224,21/2/2004,2/3/2004,26/2/2004,Shipped,Customer has worked with some of our vendors in the past and is aware of their MSRP
+126,10225,22/2/2004,1/3/2004,24/2/2004,Shipped,
+127,10226,26/2/2004,6/3/2004,2/3/2004,Shipped,
+128,10227,2/3/2004,12/3/2004,8/3/2004,Shipped,
+129,10228,10/3/2004,18/3/2004,13/3/2004,Shipped,
+130,10229,11/3/2004,20/3/2004,12/3/2004,Shipped,
+131,10230,15/3/2004,24/3/2004,20/3/2004,Shipped,Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch
+132,10231,19/3/2004,26/3/2004,25/3/2004,Shipped,
+133,10232,20/3/2004,30/3/2004,25/3/2004,Shipped,
+134,10233,29/3/2004,4/4/2004,2/4/2004,Shipped,Customer requested special shippment. The instructions were passed along to the warehouse
+135,10234,30/3/2004,5/4/2004,2/4/2004,Shipped,
+136,10235,2/4/2004,12/4/2004,6/4/2004,Shipped,
+137,10236,3/4/2004,11/4/2004,8/4/2004,Shipped,
+138,10237,5/4/2004,12/4/2004,10/4/2004,Shipped,
+139,10238,9/4/2004,16/4/2004,10/4/2004,Shipped,
+140,10239,12/4/2004,21/4/2004,17/4/2004,Shipped,
+141,10240,13/4/2004,20/4/2004,20/4/2004,Shipped,
+142,10241,13/4/2004,20/4/2004,19/4/2004,Shipped,
+143,10242,20/4/2004,28/4/2004,25/4/2004,Shipped,Customer is interested in buying more Ferrari models
+144,10243,26/4/2004,3/5/2004,28/4/2004,Shipped,
+145,10244,29/4/2004,9/5/2004,4/5/2004,Shipped,
+146,10245,4/5/2004,12/5/2004,9/5/2004,Shipped,
+147,10246,5/5/2004,13/5/2004,6/5/2004,Shipped,
+148,10247,5/5/2004,11/5/2004,8/5/2004,Shipped,
+149,10248,7/5/2004,14/5/2004,,Cancelled,Order was mistakenly placed. The warehouse noticed the lack of documentation.
+150,10249,8/5/2004,17/5/2004,11/5/2004,Shipped,Can we deliver the new Ford Mustang models by end-of-quarter?
+151,10250,11/5/2004,19/5/2004,15/5/2004,Shipped,
+152,10251,18/5/2004,24/5/2004,24/5/2004,Shipped,
+153,10252,26/5/2004,4/6/2004,29/5/2004,Shipped,
+154,10253,1/6/2004,9/6/2004,2/6/2004,Cancelled,"Customer disputed the order and we agreed to cancel it. We must be more cautions with this customer going forward, since they are very hard to please. We must cover the shipping fees."
+155,10254,3/6/2004,13/6/2004,4/6/2004,Shipped,Customer requested that DHL is used for this shipping
+156,10255,4/6/2004,12/6/2004,9/6/2004,Shipped,
+157,10256,8/6/2004,16/6/2004,10/6/2004,Shipped,
+158,10257,14/6/2004,24/6/2004,15/6/2004,Shipped,
+159,10258,15/6/2004,25/6/2004,23/6/2004,Shipped,
+160,10259,15/6/2004,22/6/2004,17/6/2004,Shipped,
+161,10260,16/6/2004,22/6/2004,,Cancelled,Customer heard complaints from their customers and called to cancel this order. Will notify the Sales Manager.
+162,10261,17/6/2004,25/6/2004,22/6/2004,Shipped,
+163,10262,24/6/2004,1/7/2004,,Cancelled,This customer found a better offer from one of our competitors. Will call back to renegotiate.
+164,10263,28/6/2004,4/7/2004,2/7/2004,Shipped,
+165,10264,30/6/2004,6/7/2004,1/7/2004,Shipped,Customer will send a truck to our local warehouse on 7/1/2004
+166,10265,2/7/2004,9/7/2004,7/7/2004,Shipped,
+167,10266,6/7/2004,14/7/2004,10/7/2004,Shipped,
+168,10267,7/7/2004,17/7/2004,9/7/2004,Shipped,
+169,10268,12/7/2004,18/7/2004,14/7/2004,Shipped,
+170,10269,16/7/2004,22/7/2004,18/7/2004,Shipped,
+171,10270,19/7/2004,27/7/2004,24/7/2004,Shipped,Can we renegotiate this one?
+172,10271,20/7/2004,29/7/2004,23/7/2004,Shipped,
+173,10272,20/7/2004,26/7/2004,22/7/2004,Shipped,
+174,10273,21/7/2004,28/7/2004,22/7/2004,Shipped,
+175,10274,21/7/2004,29/7/2004,22/7/2004,Shipped,
+176,10275,23/7/2004,2/8/2004,29/7/2004,Shipped,
+177,10276,2/8/2004,11/8/2004,8/8/2004,Shipped,
+178,10277,4/8/2004,12/8/2004,5/8/2004,Shipped,
+179,10278,6/8/2004,16/8/2004,9/8/2004,Shipped,
+180,10279,9/8/2004,19/8/2004,15/8/2004,Shipped,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+181,10280,17/8/2004,27/8/2004,19/8/2004,Shipped,
+182,10281,19/8/2004,28/8/2004,23/8/2004,Shipped,
+183,10282,20/8/2004,26/8/2004,22/8/2004,Shipped,
+184,10283,20/8/2004,30/8/2004,23/8/2004,Shipped,
+185,10284,21/8/2004,29/8/2004,26/8/2004,Shipped,Custom shipping instructions sent to warehouse
+186,10285,27/8/2004,4/9/2004,31/8/2004,Shipped,
+187,10286,28/8/2004,6/9/2004,1/9/2004,Shipped,
+188,10287,30/8/2004,6/9/2004,1/9/2004,Shipped,
+189,10288,1/9/2004,11/9/2004,5/9/2004,Shipped,
+190,10289,3/9/2004,13/9/2004,4/9/2004,Shipped,We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases.
+191,10290,7/9/2004,15/9/2004,13/9/2004,Shipped,
+192,10291,8/9/2004,17/9/2004,14/9/2004,Shipped,
+193,10292,8/9/2004,18/9/2004,11/9/2004,Shipped,They want to reevaluate their terms agreement with Finance.
+194,10293,9/9/2004,18/9/2004,14/9/2004,Shipped,
+195,10294,10/9/2004,17/9/2004,14/9/2004,Shipped,
+196,10295,10/9/2004,17/9/2004,14/9/2004,Shipped,They want to reevaluate their terms agreement with Finance.
+197,10296,15/9/2004,22/9/2004,16/9/2004,Shipped,
+198,10297,16/9/2004,22/9/2004,21/9/2004,Shipped,We must be cautions with this customer. Their VP of Sales resigned. Company may be heading down.
+199,10298,27/9/2004,5/10/2004,1/10/2004,Shipped,
+200,10299,30/9/2004,10/10/2004,1/10/2004,Shipped,
+201,10300,4/10/2003,13/10/2003,9/10/2003,Shipped,
+202,10301,5/10/2003,15/10/2003,8/10/2003,Shipped,
+203,10302,6/10/2003,16/10/2003,7/10/2003,Shipped,
+204,10303,6/10/2004,14/10/2004,9/10/2004,Shipped,Customer inquired about remote controlled models and gold models.
+205,10304,11/10/2004,20/10/2004,17/10/2004,Shipped,
+206,10305,13/10/2004,22/10/2004,15/10/2004,Shipped,Check on availability.
+207,10306,14/10/2004,21/10/2004,17/10/2004,Shipped,
+208,10307,14/10/2004,23/10/2004,20/10/2004,Shipped,
+209,10308,15/10/2004,24/10/2004,20/10/2004,Shipped,Customer requested that FedEx Ground is used for this shipping
+210,10309,15/10/2004,24/10/2004,18/10/2004,Shipped,
+211,10310,16/10/2004,24/10/2004,18/10/2004,Shipped,
+212,10311,16/10/2004,23/10/2004,20/10/2004,Shipped,Difficult to negotiate with customer. We need more marketing materials
+213,10312,21/10/2004,27/10/2004,23/10/2004,Shipped,
+214,10313,22/10/2004,28/10/2004,25/10/2004,Shipped,Customer requested that FedEx Ground is used for this shipping
+215,10314,22/10/2004,1/11/2004,23/10/2004,Shipped,
+216,10315,29/10/2004,8/11/2004,30/10/2004,Shipped,
+217,10316,1/11/2004,9/11/2004,7/11/2004,Shipped,"Customer requested that ad materials (such as posters, pamphlets) be included in the shippment"
+218,10317,2/11/2004,12/11/2004,8/11/2004,Shipped,
+219,10318,2/11/2004,9/11/2004,7/11/2004,Shipped,
+220,10319,3/11/2004,11/11/2004,6/11/2004,Shipped,Customer requested that DHL is used for this shipping
+221,10320,3/11/2004,13/11/2004,7/11/2004,Shipped,
+222,10321,4/11/2004,12/11/2004,7/11/2004,Shipped,
+223,10322,4/11/2004,12/11/2004,10/11/2004,Shipped,Customer has worked with some of our vendors in the past and is aware of their MSRP
+224,10323,5/11/2004,12/11/2004,9/11/2004,Shipped,
+225,10324,5/11/2004,11/11/2004,8/11/2004,Shipped,
+226,10325,5/11/2004,13/11/2004,8/11/2004,Shipped,
+227,10326,9/11/2004,16/11/2004,10/11/2004,Shipped,
+228,10327,10/11/2004,19/11/2004,13/11/2004,Resolved,Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed.
+229,10328,12/11/2004,21/11/2004,18/11/2004,Shipped,Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch
+230,10329,15/11/2004,24/11/2004,16/11/2004,Shipped,
+231,10330,16/11/2004,25/11/2004,21/11/2004,Shipped,
+232,10331,17/11/2004,23/11/2004,23/11/2004,Shipped,Customer requested special shippment. The instructions were passed along to the warehouse
+233,10332,17/11/2004,25/11/2004,18/11/2004,Shipped,
+234,10333,18/11/2004,27/11/2004,20/11/2004,Shipped,
+235,10334,19/11/2004,28/11/2004,,On Hold,The outstaniding balance for this customer exceeds their credit limit. Order will be shipped when a payment is received.
+236,10335,19/11/2004,29/11/2004,23/11/2004,Shipped,
+237,10336,20/11/2004,26/11/2004,24/11/2004,Shipped,Customer requested that DHL is used for this shipping
+238,10337,21/11/2004,30/11/2004,26/11/2004,Shipped,
+239,10338,22/11/2004,2/12/2004,27/11/2004,Shipped,
+240,10339,23/11/2004,30/11/2004,30/11/2004,Shipped,
+241,10340,24/11/2004,1/12/2004,25/11/2004,Shipped,Customer is interested in buying more Ferrari models
+242,10341,24/11/2004,1/12/2004,29/11/2004,Shipped,
+243,10342,24/11/2004,1/12/2004,29/11/2004,Shipped,
+244,10343,24/11/2004,1/12/2004,26/11/2004,Shipped,
+245,10344,25/11/2004,2/12/2004,29/11/2004,Shipped,
+246,10345,25/11/2004,1/12/2004,26/11/2004,Shipped,
+247,10346,29/11/2004,5/12/2004,30/11/2004,Shipped,
+248,10347,29/11/2004,7/12/2004,30/11/2004,Shipped,Can we deliver the new Ford Mustang models by end-of-quarter?
+249,10348,1/11/2004,8/11/2004,5/11/2004,Shipped,
+250,10349,1/12/2004,7/12/2004,3/12/2004,Shipped,
+251,10350,2/12/2004,8/12/2004,5/12/2004,Shipped,
+252,10351,3/12/2004,11/12/2004,7/12/2004,Shipped,
+253,10352,3/12/2004,12/12/2004,9/12/2004,Shipped,
+254,10353,4/12/2004,11/12/2004,5/12/2004,Shipped,
+255,10354,4/12/2004,10/12/2004,5/12/2004,Shipped,
+256,10355,7/12/2004,14/12/2004,13/12/2004,Shipped,
+257,10356,9/12/2004,15/12/2004,12/12/2004,Shipped,
+258,10357,10/12/2004,16/12/2004,14/12/2004,Shipped,
+259,10358,10/12/2004,16/12/2004,16/12/2004,Shipped,Customer requested that DHL is used for this shipping
+260,10359,15/12/2004,23/12/2004,18/12/2004,Shipped,
+261,10360,16/12/2004,22/12/2004,18/12/2004,Shipped,
+262,10361,17/12/2004,24/12/2004,20/12/2004,Shipped,
+263,10362,5/1/2005,16/1/2005,10/1/2005,Shipped,
+264,10363,6/1/2005,12/1/2005,10/1/2005,Shipped,
+265,10364,6/1/2005,17/1/2005,9/1/2005,Shipped,
+266,10365,7/1/2005,18/1/2005,11/1/2005,Shipped,
+267,10366,10/1/2005,19/1/2005,12/1/2005,Shipped,
+268,10367,12/1/2005,21/1/2005,16/1/2005,Resolved,This order was disputed and resolved on 2/1/2005. Customer claimed that container with shipment was damaged. FedEx's investigation proved this wrong.
+269,10368,19/1/2005,27/1/2005,24/1/2005,Shipped,Can we renegotiate this one?
+270,10369,20/1/2005,28/1/2005,24/1/2005,Shipped,
+271,10370,20/1/2005,1/2/2005,25/1/2005,Shipped,
+272,10371,23/1/2005,3/2/2005,25/1/2005,Shipped,
+273,10372,26/1/2005,5/2/2005,28/1/2005,Shipped,
+274,10373,31/1/2005,8/2/2005,6/2/2005,Shipped,
+275,10374,2/2/2005,9/2/2005,3/2/2005,Shipped,
+276,10375,3/2/2005,10/2/2005,6/2/2005,Shipped,
+277,10376,8/2/2005,18/2/2005,13/2/2005,Shipped,
+278,10377,9/2/2005,21/2/2005,12/2/2005,Shipped,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+279,10378,10/2/2005,18/2/2005,11/2/2005,Shipped,
+280,10379,10/2/2005,18/2/2005,11/2/2005,Shipped,
+281,10380,16/2/2005,24/2/2005,18/2/2005,Shipped,
+282,10381,17/2/2005,25/2/2005,18/2/2005,Shipped,
+283,10382,17/2/2005,23/2/2005,18/2/2005,Shipped,Custom shipping instructions sent to warehouse
+284,10383,22/2/2005,2/3/2005,25/2/2005,Shipped,
+285,10384,23/2/2005,6/3/2005,27/2/2005,Shipped,
+286,10385,28/2/2005,9/3/2005,1/3/2005,Shipped,
+287,10386,1/3/2005,9/3/2005,6/3/2005,Resolved,Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models.
+288,10387,2/3/2005,9/3/2005,6/3/2005,Shipped,We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases.
+289,10388,3/3/2005,11/3/2005,9/3/2005,Shipped,
+290,10389,3/3/2005,9/3/2005,8/3/2005,Shipped,
+291,10390,4/3/2005,11/3/2005,7/3/2005,Shipped,They want to reevaluate their terms agreement with Finance.
+292,10391,9/3/2005,20/3/2005,15/3/2005,Shipped,
+293,10392,10/3/2005,18/3/2005,12/3/2005,Shipped,
+294,10393,11/3/2005,22/3/2005,14/3/2005,Shipped,They want to reevaluate their terms agreement with Finance.
+295,10394,15/3/2005,25/3/2005,19/3/2005,Shipped,
+296,10395,17/3/2005,24/3/2005,23/3/2005,Shipped,We must be cautions with this customer. Their VP of Sales resigned. Company may be heading down.
+297,10396,23/3/2005,2/4/2005,28/3/2005,Shipped,
+298,10397,28/3/2005,9/4/2005,1/4/2005,Shipped,
+299,10398,30/3/2005,9/4/2005,31/3/2005,Shipped,
+300,10399,1/4/2005,12/4/2005,3/4/2005,Shipped,
+301,10400,1/4/2005,11/4/2005,4/4/2005,Shipped,Customer requested that DHL is used for this shipping
+302,10401,3/4/2005,14/4/2005,,On Hold,Customer credit limit exceeded. Will ship when a payment is received.
+303,10402,7/4/2005,14/4/2005,12/4/2005,Shipped,
+304,10403,8/4/2005,18/4/2005,11/4/2005,Shipped,
+305,10404,8/4/2005,14/4/2005,11/4/2005,Shipped,
+306,10405,14/4/2005,24/4/2005,20/4/2005,Shipped,
+307,10406,15/4/2005,25/4/2005,21/4/2005,Disputed,Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this.
+308,10407,22/4/2005,4/5/2005,,On Hold,Customer credit limit exceeded. Will ship when a payment is received.
+309,10408,22/4/2005,29/4/2005,27/4/2005,Shipped,
+310,10409,23/4/2005,5/5/2005,24/4/2005,Shipped,
+311,10410,29/4/2005,10/5/2005,30/4/2005,Shipped,
+312,10411,1/5/2005,8/5/2005,6/5/2005,Shipped,
+313,10412,3/5/2005,13/5/2005,5/5/2005,Shipped,
+314,10413,5/5/2005,14/5/2005,9/5/2005,Shipped,Customer requested that DHL is used for this shipping
+315,10414,6/5/2005,13/5/2005,,On Hold,Customer credit limit exceeded. Will ship when a payment is received.
+316,10415,9/5/2005,20/5/2005,12/5/2005,Disputed,Customer claims the scales of the models don't match what was discussed. I keep all the paperwork though to prove otherwise
+317,10416,10/5/2005,16/5/2005,14/5/2005,Shipped,
+318,10417,13/5/2005,19/5/2005,19/5/2005,Disputed,Customer doesn't like the colors and precision of the models.
+319,10418,16/5/2005,24/5/2005,20/5/2005,Shipped,
+320,10419,17/5/2005,28/5/2005,19/5/2005,Shipped,
+321,10420,29/5/2005,7/6/2005,,In Process,
+322,10421,29/5/2005,6/6/2005,,In Process,Custom shipping instructions were sent to warehouse
+323,10422,30/5/2005,11/6/2005,,In Process,
+324,10423,30/5/2005,5/6/2005,,In Process,
+325,10424,31/5/2005,8/6/2005,,In Process,
+326,10425,31/5/2005,7/6/2005,,In Process,

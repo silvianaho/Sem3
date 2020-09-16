@@ -1,0 +1,1 @@
+SELECT Citizenship FROM Staff_Relation ORDER BY Citizenship DESC;

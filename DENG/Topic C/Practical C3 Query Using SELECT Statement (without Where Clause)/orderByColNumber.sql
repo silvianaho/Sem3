@@ -1,0 +1,1 @@
+SELECT * FROM Department_Relation ORDER BY 1 DESC;

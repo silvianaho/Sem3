@@ -1,0 +1,1 @@
+SELECT Dept_Cd, Staff_Name FROM Staff_Relation ORDER BY Dept_Cd DESC, Staff_Name DESC;
